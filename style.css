@@ -2,12 +2,9 @@ body{
     background-color: whitesmoke;
     background-size: auto;
     display: flex;
-    justify-content: center;
     align-items: center;
-    height: 15vh;
     flex-direction: column;
 }
-
 
 #socials{
     float: left;
@@ -49,6 +46,14 @@ body{
     position: absolute;
     bottom: 60px;
     font-size: 18px;
+}
+
+.features{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
 }
 .dropdown {
     position: relative;
