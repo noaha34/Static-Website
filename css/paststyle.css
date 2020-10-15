@@ -7,8 +7,8 @@ body{
 }
 #work{
     float: left;
-    width: 440px;
-    height: 240px;
+    width: 740px;
+    height: 540px;
     object-fit: cover;
     position: relative;
 }
@@ -18,8 +18,10 @@ body{
     margin: auto;
 }
 
-.table{
+table{
     width: auto;
     border: 1;
     table-layout: fixed;
+    font-family: itc-avant-garde-gothic-pro;
+    font-size: 3em;
 }
