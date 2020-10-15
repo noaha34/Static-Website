@@ -1,0 +1,10 @@
+.aboutme{
+    justify-content: center;
+    align-items: baseline;
+    font-weight: bold;
+    font-family: itc-avant-garde-gothic-pro;;
+    max-width: 1250px;
+    position: relative;
+    margin: auto;
+    font-size: 2em;
+}

@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#work{
+    float: left;
+    width: 440px;
+    height: 240px;
+    object-fit: cover;
+    position: relative;
+    left: -45vh;
+}
+.content-container {
+    max-width: 2000px;
+    position: relative;
+    margin: auto;
+}

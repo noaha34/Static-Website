@@ -55,8 +55,9 @@ body{
 
 .bottom {
     position: absolute;
-    bottom: 30px;
+    bottom: -10px;
     font-size: 18px;
+    padding-bottom: 2.5rem;
 }
 
 .features{

@@ -24,7 +24,7 @@ label{
     height: 300px;
 }
 
-@media (max-width: 1500px){
+@media (max-width: 500px){
     #root{
         grid-template-columns: 1fr;
     }
