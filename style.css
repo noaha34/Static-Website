@@ -6,11 +6,20 @@ body{
     flex-direction: column;
 }
 
+#center{
+    width: auto;
+    height: auto;
+}
 #socials{
     float: left;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     object-fit: cover;
+}
+
+#namelogo{
+    width: 210px;
+    height:140px;
 }
 
 #menupic{
@@ -28,6 +37,8 @@ body{
 #subtitle{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.5em; 
+    position: relative;
+    top: -40px;
 }
 
 #menu{
@@ -44,7 +55,7 @@ body{
 
 .bottom {
     position: absolute;
-    bottom: 60px;
+    bottom: 30px;
     font-size: 18px;
 }
 
