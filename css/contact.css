@@ -27,8 +27,24 @@ label{
 @media (max-width: 500px){
     #root{
         grid-template-columns: 1fr;
+        position: relative;
+        display: grid;
+        font-family: sans-serif;
+        width: 1500px;
+        margin: 0 auto;
+        gap: 10px 5px;
+        left: -350px;
+        font-size: 2.5em;
+        top: 75px;
     }
     #send{
         grid-column: 1;
+    }
+    label:not(:first-child), #send{
+        margin-top: 10px;
+    }
+
+    label{
+        justify-self: start;
     }
 }
