@@ -1,0 +1,12 @@
+table{
+    width: auto;
+    border: 1px solid;
+    table-layout: fixed;
+    font-family: itc-avant-garde-gothic-pro;
+    font-size: 2em;
+}
+td, th, tr {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
