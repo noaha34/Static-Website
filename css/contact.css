@@ -47,4 +47,8 @@ label{
     label{
         justify-self: start;
     }
+
+    input[type='text message']{
+        font-family: Arial, Helvetica, sans-serif;
+    }
 }
